@@ -4,6 +4,7 @@ Updated automatically every day via GitHub Actions.
 
 ## Recent entries
 
+- [2026-08-27](entries/2026-08-27.md)
 - [2026-08-26](entries/2026-08-26.md)
 - [2026-08-25](entries/2026-08-25.md)
 - [2026-08-24](entries/2026-08-24.md)
@@ -33,7 +34,6 @@ Updated automatically every day via GitHub Actions.
 - [2026-07-31](entries/2026-07-31.md)
 - [2026-07-30](entries/2026-07-30.md)
 - [2026-07-29](entries/2026-07-29.md)
-- [2026-07-28](entries/2026-07-28.md)
 
 ---
-*119 entries total.*
+*120 entries total.*
